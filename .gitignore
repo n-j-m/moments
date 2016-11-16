@@ -97,7 +97,8 @@ ENV/
 ### Django ###
 *.pyc
 db.sqlite3
-media
+media/*
+!media/.gitkeep
 static
 
 
