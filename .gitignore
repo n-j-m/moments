@@ -99,7 +99,8 @@ ENV/
 db.sqlite3
 media/*
 !media/.gitkeep
-static
+static/*
+!static/.gitkeep
 
 
 ### VirtualEnv ###
